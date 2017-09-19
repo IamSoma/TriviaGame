@@ -1,0 +1,20 @@
+.container {
+  color: red;
+  font-size: 20px;
+  text-align: center;
+  background-color: black;
+}
+#subwrapper h2 {
+  color: yellow;
+  font-size: 20px;
+}
+
+body {
+  background: url(assets/images/showMe.jpeg) repeat-x top left;
+  background: url('../images/showMe.jpeg');
+  background-repeat: no-repeat;
+}
+
+#counter {
+  display: block;
+}
